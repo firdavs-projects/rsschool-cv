@@ -48,7 +48,8 @@ Full Stack Web Developer. Skilled in Web Applications, Front-end and Back-end De
 
 
 ## Code Example
-- [Equal Sides Of An Array (6 kyu)](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)
+##### [Equal Sides Of An Array (6 kyu)](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)
+
 ```
 function findEvenIndex(arr){
   let result = -1;
