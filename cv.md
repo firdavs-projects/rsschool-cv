@@ -1,7 +1,7 @@
 
 # Firdavs Abdulloev Umarjonovich
 Full Stack Web Developer
-## ![photo](https://www.codewars.com/users/firdavs7725/badges/large?logo=true&theme=light)
+## ![photo](https://www.codewars.com/users/firdavs-projects/badges/large?logo=true&theme=light)
 
 ## Contacts
 - Telegram: [@firdavs_abdulloev](https://t.me/firdavs_abdulloev)
